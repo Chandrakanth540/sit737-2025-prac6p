@@ -108,4 +108,3 @@ This will open the Node.js app in your default web browser.
 ## 📃 License
 
 This project is free to use.
-```
